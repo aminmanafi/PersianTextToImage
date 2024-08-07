@@ -19,8 +19,7 @@ The read text is written and saved in the middle of the fold in the photo with a
 
 
 
-<br />
-<br />
+
 ## فارسی
 
 دو حالت مختلف برای نوشتن متن در عکس داشتیم که در این ریپازیتوری هر دو حالت قرار گرفته است.
