@@ -18,8 +18,7 @@ The read text is written and saved in the middle of the fold in the photo with a
 
 
 
-__
-__
+
 
 ## فارسی
 
